@@ -18,7 +18,7 @@ The main objective of this project is to establish a robust set of automated tes
 
 The repository is organized as follows:
 
-- `tests/`: This folder contains all automated test cases.
+- `e2e/tests/`: This folder contains all automated test cases.
 - `support/`: Here you'll find support files such as helper functions and configurations.
 - `plugins/`: Contains custom plugins for Cypress, if needed.
 - `cypress.json`: Main Cypress configuration file.
